@@ -18,7 +18,7 @@
         "commands": [
             {
                 "command": "extension.btvgit",
-                "title": "BT View Git"
+                "title": "Fit4Git"
             }
         ]
     },
